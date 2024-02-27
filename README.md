@@ -8,7 +8,8 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-```1.Import the standard Libraries.
+```
+1.Import the standard Libraries.
 2.Set variables for assigning dataset values.
 3.Import linear regression from sklearn.
 4.Assign the points for representing in the graph.
@@ -69,14 +70,26 @@ print("RMSE= ",rmse)
 ```
 
 
-### Output :
+### Output:
+df.haed():
+
+![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/10c41eed-c208-4758-8677-f9bc3689fa17)
+
+plot:
+![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/4fc8d362-eabb-4e00-a38e-7c27cb2ead34)
+
+iloc:
+![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/9a70701e-02be-47f4-b572-9ca2e8d96962)
+Traning:
+![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/06166831-e09e-4201-a67a-0effba57a61f)
+
+Graph:
+![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/4fafd679-9e81-4ec7-a78b-86442054a62a)
 
 
 
 
-df.head()
 
-![image](https://github.com/sreenithi123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145743046/f38373c7-4ff1-4452-a597-35cb1e9119eb)
 
 
 
